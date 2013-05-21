@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MonoDevelop' target in the 'MonoDevelop' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
